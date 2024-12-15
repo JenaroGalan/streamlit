@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+
 
 ufc_final = pd.read_csv('ufc_top35_stats.csv')
 
